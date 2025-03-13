@@ -3,8 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools">
    
     <uses-sdk
-        tools:overrideLibrary="tachiyomi.source.local"
-        tools:overrideLibrary="tachiyomi.core.metadata"/>
+        tools:overrideLibrary="tachiyomi.source.local,tachiyomi.core.metadata"/>
     
     <!-- Internet -->
     <uses-permission android:name="android.permission.INTERNET" />
