@@ -25,7 +25,7 @@ android {
 
     defaultConfig {
         applicationId = "app.mihon"
-        minSDKversion(21)
+        minSdkVersion(21)
         versionCode = 10
         versionName = "0.17.1"
 
